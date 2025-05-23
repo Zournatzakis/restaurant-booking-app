@@ -5,7 +5,7 @@
 
 ## 🔗 Demo Video
 
-[![Δείξε το demo](documents/demo-thumbnail.png)](https://youtube.com/shorts/Zk0jaHSVgrI?feature=share)  
+[![Δείξε το demo](docs/demo-thumbnail.png)](https://youtube.com/shorts/Zk0jaHSVgrI?feature=share)  
 Κάνε κλικ στην εικόνα για να δεις τη λειτουργία της εφαρμογής σε πραγματικό χρόνο.
 
 ## 🚀 Τεχνολογίες
