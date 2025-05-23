@@ -5,9 +5,12 @@
 
 ## 🔗 Demo Video
 
-<a href="https://…">
-  <img src="docs/demo-thumbnail.png" width="300px" alt="Δείξε το demo"/>
-</a><br /><br />
+<a href="https://youtube.com/shorts/Zk0jaHSVgrI?feature=share">
+  <img src="docs/demo-thumbnail.png" width="300px" alt="Δείξε το demo">
+</a>
+
+<br />
+
 Κάνε κλικ στην εικόνα για να δεις τη λειτουργία της εφαρμογής σε πραγματικό χρόνο.
 
 ## 🚀 Τεχνολογίες
