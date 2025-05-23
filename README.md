@@ -20,7 +20,7 @@
 
 ## 🛠️ Οδηγίες Εγκατάστασης
 
-1. **Clone** το repo
+1. **Clone** το repo<br/><br/>
    ```bash
    git clone https://github.com/Zournatzakis/restaurant-booking-app.git
    cd restaurant-booking-app
