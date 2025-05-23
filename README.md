@@ -5,7 +5,9 @@
 
 ## 🔗 Demo Video
 
-[![Δείξε το demo](docs/demo-thumbnail.png)](https://youtube.com/shorts/Zk0jaHSVgrI?feature=share)  
+<a href="https://…">
+  <img src="docs/demo-thumbnail.png" width="300px" alt="Δείξε το demo"/>
+</a>
 Κάνε κλικ στην εικόνα για να δεις τη λειτουργία της εφαρμογής σε πραγματικό χρόνο.
 
 ## 🚀 Τεχνολογίες
